@@ -1,6 +1,6 @@
 # DropDownMenu基本用法
 由于业务需求，引用了TagListView和SVProgressHUD，代码仅供参考，可根据需求自行调整，目前为swift3.0编写。
-
+<img src="./ezgif-1-769049883c32.gif" />
 实例化
 
 ```
