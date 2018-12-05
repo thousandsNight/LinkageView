@@ -1,5 +1,3 @@
-# LinkageView
-swift三级联动
 # DropDownMenu基本用法
 由于业务需求，引用了TagListView和SVProgressHUD，代码仅供参考，可根据需求自行调整，目前为swift3.0编写。
 
